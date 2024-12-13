@@ -4,3 +4,10 @@ obj/
 Build/Builds/
 Logs/
 UserSettings/
+
+
+# MacOS
+*.DS_Store
+
+# VS Code
+*.vscode
